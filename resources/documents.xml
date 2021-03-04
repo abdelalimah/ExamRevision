@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<documents>
+        
+    <document id="11">
+                
+        <title>This is the new title</title>
+                
+        <price>1000</price>
+                
+        <authors>
+                        
+            <author id="7">
+                                
+                <name>James gosting </name>
+                                
+                <year-born>1955</year-born>
+                                
+                <country>Canada</country>
+                            
+            </author>
+                    
+        </authors>
+            
+    </document>
+    
+</documents>
